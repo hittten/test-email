@@ -1,0 +1,18 @@
+{
+    "name": "hittten/testmail",
+    "description": "Only for test emails",
+    "type": "project",
+    "require": {
+        "swiftmailer/swiftmailer": "^5.4"
+    },
+    "require-dev": {
+        "raulfraile/ladybug": "^1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Giberto López Ambrosino",
+            "email": "gilberto.amb@gmail.com"
+        }
+    ]
+}
